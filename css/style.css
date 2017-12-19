@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    font-family: myfont;
+}
+@font-face{
+    src:url(../3.otf);
+    font-family: myfont;
+}
+h1{
+    margin: 0;
+}
+.images{
+    height: 60px;
+    width: 80px;
+    padding-left: 25px;
+    padding-top: 10px;
+}
+.www{
+    font-size: 25px;
+}
+
+.image{
+    
+    height: 100px;
+    widows: 100px;
+}
+.responsive-img{
+    height: 100%;
+    width: 100%;
+}
+.bg{
+    background-image: url(../img/4.jpg);
+    background-size: 100% 100%;
+    padding-top: 200px;
+    
+}
+.face{
+  height: 100%;
+    width: 100%;
+}
+.main{
+    height: 800px;
+}
+.card-image2{
+    height: 438px;
+}
+
+
